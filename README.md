@@ -9,40 +9,51 @@
 <a name="telegram" href="https://t.me/kurlatov"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 <a name="watsapp" href="https://wa.me/<79990634779>"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
 <a name="linkedin" href="https://ru.linkedin.com/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
-<a href="mailto:kurlatovdjob@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a name="gmail" href="mailto:kurlatovdjob@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
+   
+   ## CV
+
+   <a name="cv" href="https://www.canva.com/design/DAErSBoz6ts/KagxXBpgNBNQ1rdmJIuK6A/view?utm_content=DAErSBoz6ts&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
+   <h3><a name="hh" href="">CV on hh.ru</a></h3>
 </div>
 
-## My Tech Stack:
+## 🛠 My Tech Stack:
 
 <h3>Main:</h3>
-<span>JavaScript</span><br>
-<span>Node.js</span><br>
+
+<a name="learning-now"></a>
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
 <h3>FrontEnd:</h3>
-<span>React</span><br>
-<span>Redux</span><br>
-<span>Redux-Saga</span><br>
-<span>Redux Thunk</span><br>
-<span>HTML5</span><br>
-<span>CSS</span><br>
-<span>SCSS</span><br>
+
+<a name="learning-now"></a>
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/Redux(Thunk/Saga)-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
 <h3>BackEnd:</h3>
-<span>Express.js</span><br>
-<span>PostgreSQL</span><br>
-<span>Sequelize</span><br>
-<span>WebSocket</span><br>
+
+<a name="learning-now"></a>
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
+<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=E10098" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+<img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=E10098" alt="Sequelize logo" title="Sequelize" height="25" />
 <h3>Others</h3>
-<span>GitHub</span><br>
-<span>Testing with JEST</span><br>
-<span>APIs</span><br>
-<span>Basic knowlege of Docker</span><br>
+
+<a name="learning-now"></a>
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
+<img src="https://img.shields.io/badge/API-282C34?logo=api&logoColor=E10098" alt="API logo" title="API" height="25" /><br>
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />&nbsp;&nbsp;<span>Basic knowleges</span>
 
 ## My development plans:
 
-<span>TypeScript</span><br>
-<span>Angular</span><br>
-<span>QA automation</span><br>
+<a name="learning-now"></a>
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+<img src="https://img.shields.io/badge/Angular-282C34?logo=shopify&logoColor=61DAFB" alt="Angular logo" title="Angular" height="25" /><br>
+<img src="https://img.shields.io/badge/QA-282C34?logo=shopify&logoColor=61DAFB" alt="QA logo" title="QA" height="25" />
 
 ## Languages:
 
-<span>Russian <img src="https://img.icons8.com/emoji/48/000000/russia-emoji.png"/></span><br>
-<span>English <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/></span><br>
+<span>Russian <img src="https://img.icons8.com/emoji/48/000000/russia-emoji.png"/></span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span>English <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/></span>
