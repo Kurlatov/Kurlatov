@@ -9,13 +9,13 @@
 <a name="telegram" href="https://t.me/kurlatov"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 <a name="watsapp" href="https://wa.me/<79990634779>"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
 <a name="linkedin" href="https://ru.linkedin.com/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
-<a href="mailto:vlad@webref.ru"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="mailto:kurlatovdjob@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </div>
 
 ## My Tech Stack:
 
 <h3>Main:</h3>
-<span>JavaScript(ES6)</span><br>
+<span>JavaScript</span><br>
 <span>Node.js</span><br>
 <h3>FrontEnd:</h3>
 <span>React</span><br>
