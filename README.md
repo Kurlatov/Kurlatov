@@ -3,6 +3,8 @@
 <p>Nice to meet you!<br>
    My name is Dmitrii and I'm a Full Stack JS Developer.<br>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurlatov&layout=compact)
   
 ## There are some links to contact me:
   
@@ -50,7 +52,10 @@
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/Angular-282C34?logo=shopify&logoColor=61DAFB" alt="Angular logo" title="Angular" height="25" /><br>
+<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=FFFFFF" alt="Angular logo" title="Angular" height="25" /><br>
+<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /><br>
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue&logoColor=FFFFFF" alt="Vue.js logo" title="Vue.js" height="25" /><br>
 <img src="https://img.shields.io/badge/QA-282C34?logo=shopify&logoColor=61DAFB" alt="QA logo" title="QA" height="25" />
 
 ## Languages:
