@@ -16,7 +16,7 @@
    ## CV
 
    <a name="cv" href="https://www.canva.com/design/DAErSBoz6ts/KagxXBpgNBNQ1rdmJIuK6A/view?utm_content=DAErSBoz6ts&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
-   <h3><a name="hh" href="">CV on hh.ru</a></h3>
+   <h3><a name="hh" href="https://spb.hh.ru/applicant/resumes/view?resume=cf1b0ee1ff0951505c0039ed1f623071336f6d">CV on hh.ru</a></h3>
 </div>
 
 ## 🛠 My Tech Stack:
@@ -25,7 +25,8 @@
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /> &nbsp;
+<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" height="25"  />
 <h3>FrontEnd:</h3>
 
 <a name="learning-now"></a>
