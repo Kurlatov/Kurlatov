@@ -10,7 +10,7 @@
   
 <a name="telegram" href="https://t.me/kurlatov"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 <a name="watsapp" href="https://wa.me/79990634779"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
-<a name="linkedin" href="https://ru.linkedin.com/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
+<a name="linkedin" href="linkedin.com/in/dmitrii-kurlov"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/></a>
 <a name="gmail" href="mailto:kurlatovdjob@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
    
    ## CV
