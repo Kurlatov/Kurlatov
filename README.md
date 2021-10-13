@@ -1,7 +1,7 @@
 # Hello There! 👋 
 <div>
 <p>Nice to meet you!<br>
-   My name is Dmitrii and I'm a FrontEnd JS Developer with knowleges in BackEnd.<br>
+   My name is Dmitrii and I'm a FullStack JS Developer.<br>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurlatov&layout=compact)
